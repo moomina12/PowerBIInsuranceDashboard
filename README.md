@@ -8,18 +8,19 @@ Region,Policy Type,Loss Amount,Premium Collected,Claim Count, Year
 
 📈 Visuals & Metrics
 1. ✅ Loss Distribution Pie Chart
+   
 Visual: Pie Chart used to quickly identify which categories (e.g., Region) contribute most to total losses.
 
-2. 📊 Loss Ratio (%)
+3. 📊 Loss Ratio (%)
 Loss Ratio = DIVIDE(SUM('ClaimsData'[Loss Amount]), SUM('ClaimsData'[Premium Collected]))
 Visual: Card or Matrix
 Insight: Shows loss as a percentage of premiums collected. High values indicate low profitability.
 
-3. Average Claim Severity
+4. Average Claim Severity
 Avg Claim Severity
 Insight: Average payout per claim — helps detect high-cost claim categories.
 
-4. Underwriting Margin
+5. Underwriting Margin
 
 Underwriting Margin
 Insight: Shows profitability of segments (positive = profit, negative = loss).
