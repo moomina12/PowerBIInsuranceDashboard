@@ -50,3 +50,29 @@ Insight: Changes dynamically with filters/slicers (e.g., Year, Product).
 Slicers & Filters
 Recommended slicers with Year, Region, and policy type
 These dynamically update most measures and visuals.
+
+
+INSIGHTS
+Top Loss-Contributing business segments:
+Identify which region, policy type, or product is responsible for the largest share of total losses.  Here, Marine and liability policies in almost all regions contributing approximately 20% and above loss.
+
+2. Identify High-Risk Areas
+Insights: 1.A region or category with a disproportionately large slice may indicate higher risk exposure.
+Action Required: Investigate underwriting practices, claim patterns, or environmental factors in that segment.
+
+3. Underperforming policy types
+If a policy type has high loss share but low premium share, it may be unprofitable.
+Action required: Cross-check with premium distribution to evaluate loss ratios per segment.
+
+4. Opportunities for Repricing or Re-underwriting
+High-loss segments may require:
+Premium adjustments
+Stricter underwriting
+Product redesign
+
+5. Loss Concentration
+If the chart shows heavily concentrated losses (e.g., one region is 70% of losses), the business has geographic concentration risk.
+Action Required: Diversification strategies might be necessary.
+
+6. Comparative Risk
+Comparing pie charts for different dimensions (e.g., Loss by Region vs. Loss by Policy Type) helps pinpoint whether geography or product type drives losses more.
