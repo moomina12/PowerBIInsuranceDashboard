@@ -41,7 +41,7 @@ Used this new measure in Table/Matrix visual with conditional formatting.
 
 7) Highest Loss Region with Amount
 Visual: Card
-Insight: Displays region with highest total losses (e.g., "West ($3.5M)")
+Insight: Displays region with highest total losses )
 
 8. Dynamic Insight Card
 Visual: Card or Multi-row card
