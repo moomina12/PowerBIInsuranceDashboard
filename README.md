@@ -25,16 +25,11 @@ Insight: Average payout per claim — helps detect high-cost claim categories.
 Underwriting Margin
 Insight: Shows profitability of segments (positive = profit, negative = loss).
 
-6. Loss-to-Premium Share Ratio
-
-Loss Share % and Premium Share % used to calculate Loss to Premium Share Ratio which then used to calculate the policy risk category
+6.Risk Score
+Risk score used to calculate the policy risk category
 
 Policy Risk Category = 
-SWITCH(
-    TRUE(),
-    [Loss to Premium Share Ratio] >= 1.2, "Unprofitable",
-    [Loss to Premium Share Ratio] >= 0.9, "Borderline",
-    [Loss to Premium Share Ratio] < 0.9, "Healthy",
+"Unprofitable", "Borderline", "Healthy",
     "Unknown"
 )
 
