@@ -33,7 +33,7 @@ Policy Risk Category =
     "Unknown"
 )
 
-Used this new measure in Table/Matrix visual with conditional formatting.
+Used this new measure in Table/Matrix tool
 
 7) Highest Loss Region with Amount
 Visual: Card
